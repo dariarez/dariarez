@@ -3,7 +3,6 @@
 [![Instagram Badge](https://img.shields.io/badge/rezvindasha-purple?style=flat-square&logo=instagram&logoColor=white&color=gray&link=https://www.instagram.com/dariarezvin/)](https://www.instagram.com/dariarezvin/)
 
 
-</br></br>
 ### 🖥️ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
