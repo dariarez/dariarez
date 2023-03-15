@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! I'm a beginner programmer from Ukraine.💻
 
-<!--
-**dariarez/dariarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram Badge](https://img.shields.io/badge/rezvindasha-purple?style=flat-square&logo=instagram&logoColor=white&color=gray&link=https://www.instagram.com/dariarezvin/)](https://www.instagram.com/dariarezvin/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br></br>
+### 🖥️ Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
